@@ -36,7 +36,6 @@ To post a RFC, label your post “RFC - [Your Title Here]”. Prior to moving to
 
 ### Phase 2: Temperature Check
 
-
 Timeframe: 5 days
 
 Quorum: 10M UNI
@@ -63,7 +62,7 @@ Timeframe: 2 day waiting period, 7 day voting period, 2 day timelock
 
 Threshold: 40M UNI
 
-Form: [Governance Proposal](https://app.uniswap.org/#/vote)
+Form: [Governance Proposal](https://vote.uniswapfoundation.org/)
 
 Phase 3 is the final step of the governance process. If this vote passes, then a change will be enacted on-chain.
 
